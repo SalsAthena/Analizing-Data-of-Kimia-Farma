@@ -62,7 +62,6 @@ Tabel analisa ini akan digunakan untuk mengevaluasi kinerja bisnis.
 ## 🛠️ Tools & Platform
 - **Google BigQuery** (Sandbox)
 - **SQL (BigQuery Standard SQL)**
-- **Visual Studio Code (VSCode)** untuk penulisan skrip SQL
 
 ---
 
